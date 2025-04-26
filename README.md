@@ -7,7 +7,7 @@ This research examines the influence of CEO overconfidence on firm performance, 
 To analyze how CEO overconfidence behavior affects firm performance.
 To assess the impact of press coverage and media representation on this relationship.
 
-***Methodology****
+***Methodology***
 1. Data Collection:
 The study measures CEO overconfidence through media coverage by collecting data from press articles and financial reports of sample companies from 2017 to 2022.
 More than 34,000 articles covering CEOs in Vietnam were gathered using web scraping techniques implemented in Python.
